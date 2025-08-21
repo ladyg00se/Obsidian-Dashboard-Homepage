@@ -35,6 +35,7 @@ Here are some features and ideas I’m working on:
 - [ ] 🎯 Habit tracker improvements  
 - [ ] 📅 Advanced timeboxing planner  
 
+It's not perfect, but if you have any **feature request**, please let me know :) 
 
 ## Credits:
 Gif courtesy of Giphy
