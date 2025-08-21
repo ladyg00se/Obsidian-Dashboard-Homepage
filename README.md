@@ -6,9 +6,12 @@ I was looking for a way to better manage my life, since I am working on a lot of
 but I wasn’t a big fan of having all my data online.  
 
 That’s why I started building this Dashboard – a place to manage different aspects of life:  
-- ✅ Daily ToDo’s  
+- ✅ Daily ToDo’s
+- ✳️ ᴛᴏ ᴅᴏ for the next 7 days, next 30 days and the stuff which takes place afterwards
 - 📂 Quick access to current projects  
-- 🗓️ Day planning with timeboxing  
+- 🗓️ Day planning with timeboxing
+- 🎂 ʙɪʀᴛʜᴅᴀʏs
+- 🌱 ʟɪɴᴋs to all the other userful things in life
 
 If you’re interested, feel free to put this Repository on your **watch list** –  
 I try to update my Dashboard weekly with new features.  
@@ -38,6 +41,7 @@ Gif courtesy of Giphy
 Underwater Image and other images via: https://owls-love-tea.tumblr.com
 
 Plugins (Not all in use but will be in Future (maybe (if i have time))):
+
 [Screencast from 2025-08-21 13-22-36.webm](https://github.com/user-attachments/assets/6a86353a-e250-414a-8d96-0d9a6e70067f)
 
 ## ⚠️ Disclaimer  
