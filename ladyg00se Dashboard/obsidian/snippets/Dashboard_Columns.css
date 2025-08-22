@@ -1,0 +1,45 @@
+/* ==== Volle Breite für Noten mit Klasse .dashboard ==== */
+.markdown-source-view.is-readable-line-width .cm-contentContainer,
+.markdown-preview-view.is-readable-line-width .markdown-preview-section {
+  max-width: 100%;
+}
+.markdown-source-view .cm-contentContainer,
+.markdown-preview-view .markdown-preview-section {
+  max-width: 100%;
+}
+
+/* ==== 3-Spalten Grid für das Dashboard ==== */
+.dashboard .dashboard-grid {
+  display: grid;
+  grid-template-columns: 1fr 1.3fr 1fr; /* links | mitte | rechts */
+  gap: var(--size-4-4);
+  align-items: start;
+}
+
+/* Karten/Boxen-Styling */
+.dashboard .section {
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 12px;
+  padding: var(--size-4-3);
+  background: var(--background-primary);
+}
+
+/* Galerieraster (wenn du ohne Cards-Plugin arbeiten willst) */
+.dashboard .gallery {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(220px, 1fr));
+  gap: var(--size-4-3);
+}
+.dashboard .gallery .card {
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 12px;
+  padding: var(--size-4-3);
+}
+
+/* Auf mobilen Geräten 1 Spalte */
+@media (max-width: 900px) {
+  .dashboard .dashboard-grid { grid-template-columns: 1fr; }
+}
+
+/* Kleine Überschriften-Abstände */
+.dashboard h2, .dashboard h3 { margin-top: 0; }
