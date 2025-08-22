@@ -32,8 +32,8 @@ Here are some features and ideas I’m working on:
 - [ ] 📂 Project template / structure  
 - [ ] 🪶 Minimal design version  
 - [ ] 📰 News overview integration  
-- [ ] 🎯 Habit tracker improvements  
-- [ ] 📅 Advanced timeboxing planner  
+- [X] 🎯 Habit tracker improvements  -> Kikijiki Habit Tracker
+- [X] 📅 Advanced timeboxing planner  -> Calendar App
 
 It's not perfect, but if you have any **feature request**, please let me know :) 
 
